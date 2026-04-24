@@ -64,7 +64,8 @@ async fn run() -> Result<()> {
 
     let mut output = output;
     for blog in &mut output.content {
-        if let Some(feed_url) = blog.feed.as_deref() {
+        if !blog.feed.trim().is_empty() {
+            let feed_url = blog.feed.as_str();
             match fetch_posts_from_feed(feed_url, 3).await {
                 Ok(posts) => {
                     blog.posts = posts;

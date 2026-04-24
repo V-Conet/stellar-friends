@@ -51,11 +51,11 @@ fn transform_friend(friend: Friend, labels: &HashMap<String, Label>) -> Blog {
     Blog {
         title: friend.title,
         url: friend.url,
-        description: friend.description,
-        keywords: friend.keywords,
+        description: friend.description.unwrap_or_default(),
+        keywords: friend.keywords.unwrap_or_default(),
         icon: friend.icon,
-        snapshot: friend.snapshot,
-        feed: friend.feed,
+        snapshot: friend.snapshot.unwrap_or_default(),
+        feed: friend.feed.unwrap_or_default(),
         posts: Vec::new(), // posts 由外部 RSS 解析填充
         issue_number: friend.issue_number,
         labels: output_labels,

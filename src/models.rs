@@ -41,20 +41,14 @@ pub struct Output {
 pub struct Blog {
     pub title: String,
     pub url: String,
-    #[serde(skip_serializing_if = "Option::is_none")]
-    pub description: Option<String>,
-    #[serde(skip_serializing_if = "Option::is_none")]
-    pub keywords: Option<String>,
+    pub description: String,
+    pub keywords: String,
     pub icon: String,
-    #[serde(skip_serializing_if = "Option::is_none")]
-    pub snapshot: Option<String>,
-    #[serde(skip_serializing_if = "Option::is_none")]
-    pub feed: Option<String>,
-    #[serde(skip_serializing_if = "Vec::is_empty", default)]
+    pub snapshot: String,
+    pub feed: String,
     pub posts: Vec<Post>,
     #[serde(rename = "issue_number")]
     pub issue_number: i64,
-    #[serde(skip_serializing_if = "Vec::is_empty", default)]
     pub labels: Vec<OutputLabel>,
 }
 
