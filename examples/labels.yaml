@@ -1,0 +1,23 @@
+- name: 老友
+  color: "228879"
+  hue: 171
+  saturation: 60
+  lightness: 33
+
+- name: 失联
+  color: "D93F0B"
+  hue: 15
+  saturation: 90
+  lightness: 45
+
+- name: 社区先锋
+  color: "bbded6"
+  hue: 166
+  saturation: 35
+  lightness: 80
+
+- name: status:403
+  color: "ededed"
+  hue: 0
+  saturation: 0
+  lightness: 93

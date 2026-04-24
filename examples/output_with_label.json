@@ -1,0 +1,159 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "W4J1e's blog",
+      "url": "https://hin.cool",
+      "description": "总是偏爱不务正业",
+      "keywords": "W4J1e",
+      "icon": "https://gcore.jsdelivr.net/gh/cdn-x/xaoxuu@main/posts/20250706180654686.webp",
+      "snapshot": "https://bu.dusays.com/2021/02/04/6be1a2bcc0fea.jpg",
+      "feed": "https://hin.cool/atom.xml",
+      "posts": [
+        {
+          "title": "关于我被诊断脸瘫这件事",
+          "link": "https://hin.cool/posts/liantanle.html",
+          "published": "2026-04-23 12:10"
+        },
+        {
+          "title": "关于羊、鼠、杰",
+          "link": "https://hin.cool/posts/itsme.html",
+          "published": "2026-03-30 08:00"
+        },
+        {
+          "title": "水 之 湄",
+          "link": "https://hin.cool/posts/shuizhimei.html",
+          "published": "2026-03-14 14:00"
+        }
+      ],
+      "issue_number": 81
+    },
+    {
+      "title": "Shan San",
+      "url": "https://shansan.top",
+      "description": "",
+      "keywords": "",
+      "icon": "https://gcore.jsdelivr.net/gh/cdn-x/xaoxuu@main/posts/20250706180900122.jpg",
+      "snapshot": "",
+      "feed": "https://shansan.top/rss2.xml",
+      "posts": [
+        {
+          "title": "Sanitizer 全景：从编译插桩到硬件标签的内存安全检测演进",
+          "link": "https://shansan.top/2026/04/22/blog-sanitizers-deep-dive/",
+          "published": "2026-04-22 16:10"
+        },
+        {
+          "title": "【连载】Software Testing Weekly 图文解读 with VLM",
+          "link": "https://shansan.top/2026/04/19/Software-Testing-Weekly-Visual-Interpretation/",
+          "published": "2026-04-19 00:45"
+        },
+        {
+          "title": "我的 MacOS 常用软件清单",
+          "link": "https://shansan.top/2025/09/28/my-mac-tools/",
+          "published": "2025-09-28 11:24"
+        }
+      ],
+      "issue_number": 8,
+      "labels": [
+        {
+          "name": "老友",
+          "color": "228879",
+          "hue": 171,
+          "saturation": 60,
+          "lightness": 33
+        }
+      ]
+    },
+    {
+      "title": "风记星辰",
+      "url": "https://www.thyuu.com",
+      "description": "热爱你来过的每度温暖",
+      "icon": "https://std.thyuu.com/logo.svg",
+      "snapshot": "",
+      "feed": "https://www.thyuu.com/feed/",
+      "posts": [
+        {
+          "title": "THYUU/星度主题 26.4.0 正式版更新内容：全新首页及瞬间动态登场",
+          "link": "https://www.thyuu.com/82028/",
+          "published": "2026-04-18 11:06"
+        },
+        {
+          "title": "风记得的第2084天星辰：被资本玩坏的车厘子、集卡活动一个没参加、遇到一只小猫咪",
+          "link": "https://www.thyuu.com/81910/",
+          "published": "2026-02-13 12:07"
+        },
+        {
+          "title": "风记得的音乐：R&B风格改编《我记得》",
+          "link": "https://www.thyuu.com/81905/",
+          "published": "2026-02-13 01:34"
+        }
+      ],
+      "issue_number": 146,
+      "labels": [
+        {
+          "name": "失联",
+          "color": "D93F0B",
+          "hue": 15,
+          "saturation": 90,
+          "lightness": 45
+        },
+        {
+          "name": "status:403",
+          "color": "ededed",
+          "hue": 0,
+          "saturation": 0,
+          "lightness": 93
+        }
+      ]
+    },
+    {
+      "title": "钟意博客",
+      "url": "https://log.cns.red/",
+      "description": "感谢你的阅读.",
+      "icon": "https://upyun.thatcdn.cn/hexo/stellar/image/favicon.webp",
+      "snapshot": "https://upyun.thatcdn.cn/hexo/stellar/image/shot.webp!screenshot",
+      "feed": "https://log.cns.red/atom.xml",
+      "posts": [
+        {
+          "title": "国家统计局数据查询 MCP",
+          "link": "https://log.cns.red/cnbs/",
+          "published": "2026-04-05 03:30"
+        },
+        {
+          "title": "照见·硅·肆 涌现之前",
+          "link": "https://log.cns.red/sa/04_before_emergence/",
+          "published": "2026-03-15 12:00"
+        },
+        {
+          "title": "照见·硅·叁 换行重启",
+          "link": "https://log.cns.red/sa/03_new_line/",
+          "published": "2026-03-14 16:00"
+        }
+      ],
+      "issue_number": 122,
+      "labels": [
+        {
+          "name": "失联",
+          "color": "D93F0B",
+          "hue": 15,
+          "saturation": 90,
+          "lightness": 45
+        },
+        {
+          "name": "社区先锋",
+          "color": "bbded6",
+          "hue": 166,
+          "saturation": 35,
+          "lightness": 80
+        },
+        {
+          "name": "老友",
+          "color": "228879",
+          "hue": 171,
+          "saturation": 60,
+          "lightness": 33
+        }
+      ]
+    }
+  ]
+}

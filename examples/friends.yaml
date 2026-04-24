@@ -1,0 +1,43 @@
+- title: W4J1e's blog
+  url: https://hin.cool
+  description: 总是偏爱不务正业
+  keywords: W4J1e
+  icon: https://gcore.jsdelivr.net/gh/cdn-x/xaoxuu@main/posts/20250706180654686.webp
+  snapshot: https://bu.dusays.com/2021/02/04/6be1a2bcc0fea.jpg
+  feed: https://hin.cool/atom.xml
+  issue_number: 81
+  labels: []
+
+- title: Shan San
+  url: https://shansan.top
+  description: ""
+  keywords: ""
+  icon: https://gcore.jsdelivr.net/gh/cdn-x/xaoxuu@main/posts/20250706180900122.jpg
+  snapshot: ""
+  feed: https://shansan.top/rss2.xml
+  issue_number: 8
+  labels:
+    - 老友
+
+- title: 风记星辰
+  url: https://www.thyuu.com
+  description: "热爱你来过的每度温暖"
+  icon: https://std.thyuu.com/logo.svg
+  snapshot: ""
+  feed: https://www.thyuu.com/feed/
+  issue_number: 146
+  labels:
+    - 失联
+    - status:403
+
+- title: 钟意博客
+  url: https://log.cns.red/
+  description: "感谢你的阅读."
+  icon: https://upyun.thatcdn.cn/hexo/stellar/image/favicon.webp
+  snapshot: https://upyun.thatcdn.cn/hexo/stellar/image/shot.webp!screenshot
+  feed: https://log.cns.red/atom.xml
+  issue_number: 122
+  labels:
+    - 失联
+    - 社区先锋
+    - 老友

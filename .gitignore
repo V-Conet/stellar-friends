@@ -1,0 +1,9 @@
+/target
+
+/conf
+/.claude
+/.vscode
+/.idea
+/.DS_Store
+
+/docs
