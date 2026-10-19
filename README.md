@@ -50,3 +50,7 @@ $ stellar-friends -l path/to/labels.yaml -f path/to/friends.yaml -o path/to/outp
   saturation: 标签饱和度（0-100）
   lightness: 标签亮度（0-100）
 ```
+
+## License
+
+MIT
